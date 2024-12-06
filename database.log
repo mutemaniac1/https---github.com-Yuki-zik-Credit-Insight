@@ -1,0 +1,294 @@
+2024-12-03 12:51:09,112 - __main__ - INFO - 数据库引擎初始化成功
+2024-12-03 12:51:09,112 - __main__ - ERROR - 数据库操作错误: Textual SQL expression 'SELECT 1' should be explicitly declared as text('SELECT 1')
+2024-12-03 12:51:09,112 - __main__ - ERROR - 数据库连接检查失败: Textual SQL expression 'SELECT 1' should be explicitly declared as text('SELECT 1')
+2024-12-03 12:51:39,951 - __main__ - INFO - 数据库引擎初始化成功
+2024-12-03 12:51:39,952 - __main__ - ERROR - 数据库操作错误: Textual SQL expression 'SELECT 1' should be explicitly declared as text('SELECT 1')
+2024-12-03 12:51:39,952 - __main__ - ERROR - 数据库连接检查失败: Textual SQL expression 'SELECT 1' should be explicitly declared as text('SELECT 1')
+2024-12-03 12:52:10,145 - __main__ - INFO - 数据库引擎初始化成功
+2024-12-03 12:52:10,146 - __main__ - ERROR - 数据库操作错误: Textual SQL expression 'SELECT 1' should be explicitly declared as text('SELECT 1')
+2024-12-03 12:52:10,146 - __main__ - ERROR - 数据库连接检查失败: Textual SQL expression 'SELECT 1' should be explicitly declared as text('SELECT 1')
+2024-12-03 12:52:37,193 - __main__ - INFO - 数据库引擎初始化成功
+2024-12-03 13:04:31,308 - __main__ - INFO - 数据库引擎初始化成功
+2024-12-03 13:06:35,401 - __main__ - INFO - 数据库引擎初始化成功
+2024-12-03 13:06:35,402 - __main__ - ERROR - 会话执行错误: (psycopg2.ProgrammingError) invalid dsn: invalid connection option "statement_timeout"
+
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2024-12-03 13:06:35,402 - __main__ - ERROR - 数据库连接检查失败: (psycopg2.ProgrammingError) invalid dsn: invalid connection option "statement_timeout"
+
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2024-12-03 13:07:27,487 - __main__ - INFO - 数据库引擎初始化成功
+2024-12-03 13:17:22,223 - __main__ - INFO - 数据库引擎初始化成功
+2024-12-03 13:38:40,564 - backend.database.link - ERROR - 数据库引擎初始化失败: invalid literal for int() with base 10: 'port'
+2024-12-03 13:41:24,643 - __main__ - ERROR - 数据库引擎初始化失败: invalid literal for int() with base 10: 'port'
+2024-12-03 13:41:39,991 - __main__ - ERROR - 数据库引擎初始化失败: invalid literal for int() with base 10: 'port'
+2024-12-03 13:42:20,763 - __main__ - INFO - 数据库引擎初始化成功
+2024-12-03 13:42:20,869 - __main__ - ERROR - 会话执行错误: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  Invalid username/password,login denied.
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-12-03 13:42:20,870 - __main__ - ERROR - 数据库连接检查失败: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  Invalid username/password,login denied.
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-12-03 13:44:04,987 - __main__ - INFO - 数据库引擎初始化成功
+2024-12-03 14:53:53,444 - backend.database.link - INFO - 数据库引擎初始化成功
+2024-12-03 14:54:40,347 - backend.database.link - INFO - 数据库引擎初始化成功
+2024-12-03 14:55:06,810 - backend.database.link - INFO - 数据库引擎初始化成功
+2024-12-03 14:55:31,906 - backend.database.link - INFO - 数据库引擎初始化成功
+2024-12-03 14:55:32,046 - backend.database.link - ERROR - 未知错误: backend.database.models.user.User() argument after ** must be a mapping, not set
+2024-12-03 14:56:57,403 - backend.database.link - INFO - 数据库引擎初始化成功
+2024-12-03 15:04:30,808 - backend.database.link - INFO - 数据库引擎初始化成功
+2024-12-03 15:04:30,921 - backend.database.link - ERROR - 未知错误: 'application_name' is an invalid keyword argument for Connection()
+2024-12-03 15:04:31,505 - backend.database.link - ERROR - 未知错误: 'application_name' is an invalid keyword argument for Connection()
+2024-12-03 15:04:31,805 - backend.database.link - ERROR - 未知错误: 'application_name' is an invalid keyword argument for Connection()
+2024-12-03 15:04:32,102 - backend.database.link - ERROR - 未知错误: 'application_name' is an invalid keyword argument for Connection()
+2024-12-03 15:04:32,429 - backend.database.link - ERROR - 未知错误: 'application_name' is an invalid keyword argument for Connection()
+2024-12-03 15:04:32,732 - backend.database.link - ERROR - 未知错误: 'application_name' is an invalid keyword argument for Connection()
+2024-12-03 15:04:54,050 - backend.database.link - INFO - 数据库引擎初始化成功
+2024-12-03 15:04:54,132 - backend.database.link - ERROR - 未知错误: 'application_name' is an invalid keyword argument for Connection()
+2024-12-03 15:04:54,648 - backend.database.link - ERROR - 未知错误: 'application_name' is an invalid keyword argument for Connection()
+2024-12-03 15:04:54,934 - backend.database.link - ERROR - 未知错误: 'application_name' is an invalid keyword argument for Connection()
+2024-12-03 15:04:55,228 - backend.database.link - ERROR - 未知错误: 'application_name' is an invalid keyword argument for Connection()
+2024-12-03 15:04:55,512 - backend.database.link - ERROR - 未知错误: 'application_name' is an invalid keyword argument for Connection()
+2024-12-03 15:04:55,789 - backend.database.link - ERROR - 未知错误: 'application_name' is an invalid keyword argument for Connection()
+2024-12-03 15:06:59,495 - backend.database.link - INFO - 数据库引擎初始化成功
+2024-12-03 15:06:59,618 - backend.database.link - ERROR - 未知错误: 'application_name' is an invalid keyword argument for Connection()
+2024-12-03 15:07:00,091 - backend.database.link - ERROR - 未知错误: 'application_name' is an invalid keyword argument for Connection()
+2024-12-03 15:07:00,365 - backend.database.link - ERROR - 未知错误: 'application_name' is an invalid keyword argument for Connection()
+2024-12-03 15:07:00,644 - backend.database.link - ERROR - 未知错误: 'application_name' is an invalid keyword argument for Connection()
+2024-12-03 15:07:00,962 - backend.database.link - ERROR - 未知错误: 'application_name' is an invalid keyword argument for Connection()
+2024-12-03 15:07:01,249 - backend.database.link - ERROR - 未知错误: 'application_name' is an invalid keyword argument for Connection()
+2024-12-03 15:08:54,498 - backend.database.link - INFO - 数据库引擎初始化成功
+2024-12-03 15:08:54,566 - backend.database.link - ERROR - 数据库操作错误: Invalid value 'READ COMMITTED' for isolation_level. Valid isolation levels for 'sqlite' are READ UNCOMMITTED, SERIALIZABLE, AUTOCOMMIT
+2024-12-03 15:08:54,785 - backend.database.link - ERROR - 数据库操作错误: Invalid value 'READ COMMITTED' for isolation_level. Valid isolation levels for 'sqlite' are READ UNCOMMITTED, SERIALIZABLE, AUTOCOMMIT
+2024-12-03 15:08:54,792 - backend.database.link - ERROR - 数据库操作错误: Invalid value 'READ COMMITTED' for isolation_level. Valid isolation levels for 'sqlite' are READ UNCOMMITTED, SERIALIZABLE, AUTOCOMMIT
+2024-12-03 15:08:54,797 - backend.database.link - ERROR - 数据库操作错误: Invalid value 'READ COMMITTED' for isolation_level. Valid isolation levels for 'sqlite' are READ UNCOMMITTED, SERIALIZABLE, AUTOCOMMIT
+2024-12-03 15:08:54,797 - backend.database.link - ERROR - 数据库操作错误: Invalid value 'READ COMMITTED' for isolation_level. Valid isolation levels for 'sqlite' are READ UNCOMMITTED, SERIALIZABLE, AUTOCOMMIT
+2024-12-03 15:08:54,797 - backend.database.link - ERROR - 数据库操作错误: Invalid value 'READ COMMITTED' for isolation_level. Valid isolation levels for 'sqlite' are READ UNCOMMITTED, SERIALIZABLE, AUTOCOMMIT
+2024-12-03 15:08:54,799 - backend.database.link - ERROR - 数据库操作错误: Invalid value 'READ COMMITTED' for isolation_level. Valid isolation levels for 'sqlite' are READ UNCOMMITTED, SERIALIZABLE, AUTOCOMMIT
+2024-12-03 15:08:54,799 - backend.database.link - ERROR - 数据库操作错误: Invalid value 'READ COMMITTED' for isolation_level. Valid isolation levels for 'sqlite' are READ UNCOMMITTED, SERIALIZABLE, AUTOCOMMIT
+2024-12-03 15:08:54,799 - backend.database.link - ERROR - 数据库操作错误: Invalid value 'READ COMMITTED' for isolation_level. Valid isolation levels for 'sqlite' are READ UNCOMMITTED, SERIALIZABLE, AUTOCOMMIT
+2024-12-03 15:08:55,110 - backend.database.link - ERROR - 数据库操作错误: Invalid value 'READ COMMITTED' for isolation_level. Valid isolation levels for 'sqlite' are READ UNCOMMITTED, SERIALIZABLE, AUTOCOMMIT
+2024-12-03 15:08:55,115 - backend.database.link - ERROR - 数据库操作错误: Invalid value 'READ COMMITTED' for isolation_level. Valid isolation levels for 'sqlite' are READ UNCOMMITTED, SERIALIZABLE, AUTOCOMMIT
+2024-12-03 15:08:55,116 - backend.database.link - ERROR - 数据库操作错误: Invalid value 'READ COMMITTED' for isolation_level. Valid isolation levels for 'sqlite' are READ UNCOMMITTED, SERIALIZABLE, AUTOCOMMIT
+2024-12-03 15:12:24,846 - backend.database.link - INFO - 数据库引擎初始化成功
+2024-12-03 15:12:24,959 - backend.database.link - ERROR - 数据库操作错误: (sqlite3.OperationalError) no such table: users
+[SQL: INSERT INTO users (username, email, password_hash, role) VALUES (?, ?, ?, ?) RETURNING user_id, created_at]
+[parameters: ('testuser', 'test@example.com', 'hashed_password123', 'user')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-12-03 15:12:25,144 - backend.database.link - ERROR - 数据库操作错误: (sqlite3.OperationalError) no such table: users
+[SQL: INSERT INTO users (username, email, password_hash, role) VALUES (?, ?, ?, ?) RETURNING user_id, created_at]
+[parameters: ('testuser', 'test@example.com', 'hashed_password123', 'user')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-12-03 15:12:25,151 - backend.database.link - ERROR - 数据库操作错误: (sqlite3.OperationalError) no such table: users
+[SQL: INSERT INTO users (username, email, password_hash, role) VALUES (?, ?, ?, ?) RETURNING user_id, created_at]
+[parameters: ('testuser', 'test@example.com', 'hashed_password123', 'user')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-12-03 15:12:25,155 - backend.database.link - ERROR - 数据库操作错误: (sqlite3.OperationalError) no such table: users
+[SQL: INSERT INTO users (username, email, password_hash, role) VALUES (?, ?, ?, ?) RETURNING user_id, created_at]
+[parameters: ('user0', 'test0@example.com', 'hash0', 'user')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-12-03 15:12:25,157 - backend.database.link - ERROR - 数据库操作错误: (sqlite3.OperationalError) no such table: users
+[SQL: INSERT INTO users (username, email, password_hash, role) VALUES (?, ?, ?, ?) RETURNING user_id, created_at]
+[parameters: ('user1', 'test1@example.com', 'hash1', 'user')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-12-03 15:12:25,158 - backend.database.link - ERROR - 数据库操作错误: (sqlite3.OperationalError) no such table: users
+[SQL: INSERT INTO users (username, email, password_hash, role) VALUES (?, ?, ?, ?) RETURNING user_id, created_at]
+[parameters: ('user2', 'test2@example.com', 'hash2', 'user')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-12-03 15:12:25,159 - backend.database.link - ERROR - 数据库操作错误: (sqlite3.OperationalError) no such table: users
+[SQL: INSERT INTO users (username, email, password_hash, role) VALUES (?, ?, ?, ?) RETURNING user_id, created_at]
+[parameters: ('user3', 'test3@example.com', 'hash3', 'user')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-12-03 15:12:25,160 - backend.database.link - ERROR - 数据库操作错误: (sqlite3.OperationalError) no such table: users
+[SQL: INSERT INTO users (username, email, password_hash, role) VALUES (?, ?, ?, ?) RETURNING user_id, created_at]
+[parameters: ('user4', 'test4@example.com', 'hash4', 'user')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-12-03 15:12:25,160 - backend.database.link - ERROR - 数据库操作错误: (sqlite3.OperationalError) no such table: users
+[SQL: SELECT users.user_id, users.username, users.email, users.password_hash, users.role, users.created_at 
+FROM users
+ LIMIT ? OFFSET ?]
+[parameters: (3, 0)]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-12-03 15:12:25,395 - backend.database.link - ERROR - 数据库操作错误: (sqlite3.OperationalError) no such table: users
+[SQL: INSERT INTO users (username, email, password_hash, role) VALUES (?, ?, ?, ?) RETURNING user_id, created_at]
+[parameters: ('testuser', 'test@example.com', 'hashed_password123', 'user')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-12-03 15:12:25,401 - backend.database.link - ERROR - 数据库操作错误: (sqlite3.OperationalError) no such table: users
+[SQL: INSERT INTO users (username, email, password_hash, role) VALUES (?, ?, ?, ?) RETURNING user_id, created_at]
+[parameters: ('testuser', None, None, None)]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-12-03 15:12:25,401 - backend.database.link - ERROR - 数据库操作错误: (sqlite3.OperationalError) no such table: users
+[SQL: INSERT INTO users (username, email, password_hash, role) VALUES (?, ?, ?, ?) RETURNING user_id, created_at]
+[parameters: ('', 'invalid-email', 'hash', 'invalid_role')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-12-03 15:14:13,126 - backend.database.link - INFO - 数据库引擎初始化成功
+2024-12-03 15:14:13,726 - backend.database.link - ERROR - 数据库操作错误: (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "users_username_key"
+DETAIL:  Key (username)=(testuser) already exists.
+
+[SQL: INSERT INTO users (username, email, password_hash, role) VALUES (%(username)s, %(email)s, %(password_hash)s, %(role)s) RETURNING users.user_id, users.created_at]
+[parameters: {'username': 'testuser', 'email': 'test@example.com', 'password_hash': 'hashed_password123', 'role': 'user'}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-12-03 15:14:13,749 - backend.database.link - ERROR - 数据库操作错误: (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "users_username_key"
+DETAIL:  Key (username)=(testuser) already exists.
+
+[SQL: INSERT INTO users (username, email, password_hash, role) VALUES (%(username)s, %(email)s, %(password_hash)s, %(role)s) RETURNING users.user_id, users.created_at]
+[parameters: {'username': 'testuser', 'email': 'test@example.com', 'password_hash': 'hashed_password123', 'role': 'user'}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-12-03 15:14:13,842 - backend.database.link - ERROR - 数据库操作错误: (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "users_username_key"
+DETAIL:  Key (username)=(testuser) already exists.
+
+[SQL: INSERT INTO users (username, email, password_hash, role) VALUES (%(username)s, %(email)s, %(password_hash)s, %(role)s) RETURNING users.user_id, users.created_at]
+[parameters: {'username': 'testuser', 'email': 'test@example.com', 'password_hash': 'hashed_password123', 'role': 'user'}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-12-03 15:14:13,885 - backend.database.link - ERROR - 数据库操作错误: (psycopg2.errors.NotNullViolation) null value in column "email" violates not-null constraint
+DETAIL:  Failing row contains (10, testuser, null, null, null, 2024-12-03 15:14:13.851721).
+
+[SQL: INSERT INTO users (username, email, password_hash, role) VALUES (%(username)s, %(email)s, %(password_hash)s, %(role)s) RETURNING users.user_id, users.created_at]
+[parameters: {'username': 'testuser', 'email': None, 'password_hash': None, 'role': None}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-12-03 15:14:13,901 - backend.database.link - ERROR - 数据库操作错误: (psycopg2.errors.NotNullViolation) null value in column "username" violates not-null constraint
+DETAIL:  Failing row contains (11, null, invalid-email, hash, invalid_role, 2024-12-03 15:14:13.889131).
+
+[SQL: INSERT INTO users (username, email, password_hash, role) VALUES (%(username)s, %(email)s, %(password_hash)s, %(role)s) RETURNING users.user_id, users.created_at]
+[parameters: {'username': '', 'email': 'invalid-email', 'password_hash': 'hash', 'role': 'invalid_role'}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-12-03 15:16:27,303 - backend.database.link - INFO - 数据库引擎初始化成功
+2024-12-03 15:19:11,148 - backend.database.link - INFO - 数据库引擎初始化成功
+2024-12-03 15:19:11,358 - backend.database.link - ERROR - 数据库操作错误: (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "users_username_key"
+DETAIL:  Key (username)=(testuser) already exists.
+
+[SQL: INSERT INTO users (username, email, password_hash, role) VALUES (%(username)s, %(email)s, %(password_hash)s, %(role)s) RETURNING users.user_id, users.created_at]
+[parameters: {'username': 'testuser', 'email': 'test@example.com', 'password_hash': 'hashed_password123', 'role': 'user'}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-12-03 15:19:11,655 - backend.database.link - ERROR - 数据库操作错误: (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "users_username_key"
+DETAIL:  Key (username)=(user0) already exists.
+
+[SQL: INSERT INTO users (username, email, password_hash, role) VALUES (%(username)s, %(email)s, %(password_hash)s, %(role)s) RETURNING users.user_id, users.created_at]
+[parameters: {'username': 'user0', 'email': 'test0@example.com', 'password_hash': 'hash0', 'role': 'user'}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-12-03 15:19:11,673 - backend.database.link - ERROR - 数据库操作错误: (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "users_username_key"
+DETAIL:  Key (username)=(user1) already exists.
+
+[SQL: INSERT INTO users (username, email, password_hash, role) VALUES (%(username)s, %(email)s, %(password_hash)s, %(role)s) RETURNING users.user_id, users.created_at]
+[parameters: {'username': 'user1', 'email': 'test1@example.com', 'password_hash': 'hash1', 'role': 'user'}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-12-03 15:19:11,692 - backend.database.link - ERROR - 数据库操作错误: (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "users_username_key"
+DETAIL:  Key (username)=(user2) already exists.
+
+[SQL: INSERT INTO users (username, email, password_hash, role) VALUES (%(username)s, %(email)s, %(password_hash)s, %(role)s) RETURNING users.user_id, users.created_at]
+[parameters: {'username': 'user2', 'email': 'test2@example.com', 'password_hash': 'hash2', 'role': 'user'}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-12-03 15:19:11,709 - backend.database.link - ERROR - 数据库操作错误: (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "users_username_key"
+DETAIL:  Key (username)=(user3) already exists.
+
+[SQL: INSERT INTO users (username, email, password_hash, role) VALUES (%(username)s, %(email)s, %(password_hash)s, %(role)s) RETURNING users.user_id, users.created_at]
+[parameters: {'username': 'user3', 'email': 'test3@example.com', 'password_hash': 'hash3', 'role': 'user'}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-12-03 15:19:11,727 - backend.database.link - ERROR - 数据库操作错误: (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "users_username_key"
+DETAIL:  Key (username)=(user4) already exists.
+
+[SQL: INSERT INTO users (username, email, password_hash, role) VALUES (%(username)s, %(email)s, %(password_hash)s, %(role)s) RETURNING users.user_id, users.created_at]
+[parameters: {'username': 'user4', 'email': 'test4@example.com', 'password_hash': 'hash4', 'role': 'user'}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-12-03 15:19:11,774 - backend.database.link - ERROR - 数据库操作错误: (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "users_email_key"
+DETAIL:  Key (email)=(test@example.com) already exists.
+
+[SQL: INSERT INTO users (username, email, password_hash, role) VALUES (%(username)s, %(email)s, %(password_hash)s, %(role)s) RETURNING users.user_id, users.created_at]
+[parameters: {'username': 'another_user', 'email': 'test@example.com', 'password_hash': 'hashed_password123', 'role': 'user'}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-12-03 15:20:22,185 - backend.database.link - INFO - 数据库引擎初始化成功
+2024-12-03 15:20:22,654 - backend.database.link - ERROR - 数据库操作错误: (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "users_email_key"
+DETAIL:  Key (email)=(test@example.com) already exists.
+
+[SQL: INSERT INTO users (username, email, password_hash, role) VALUES (%(username)s, %(email)s, %(password_hash)s, %(role)s) RETURNING users.user_id, users.created_at]
+[parameters: {'username': 'another_user', 'email': 'test@example.com', 'password_hash': 'hashed_password123', 'role': 'user'}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-12-03 15:22:24,309 - backend.database.link - INFO - 数据库引擎初始化成功
+2024-12-03 15:22:24,457 - backend.database.link - ERROR - 数据库操作错误: Instance '<User at 0x1918189e810>' is not persistent within this Session
+2024-12-03 15:22:24,709 - backend.database.link - ERROR - 数据库操作错误: Instance '<User at 0x191819f7750>' is not persistent within this Session
+2024-12-03 15:22:24,777 - backend.database.link - ERROR - 数据库操作错误: Instance '<User at 0x19181921990>' is not persistent within this Session
+2024-12-03 15:30:57,817 - __main__ - INFO - 数据库引擎初始化成功
+2024-12-03 15:30:57,863 - __main__ - ERROR - 会话执行错误: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  Invalid username/password,login denied.
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-12-03 15:30:57,863 - __main__ - ERROR - 数据库连接检查失败: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  Invalid username/password,login denied.
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-12-03 15:32:12,300 - __main__ - INFO - 数据库引擎初始化成功
+2024-12-03 15:32:12,330 - __main__ - ERROR - 会话执行错误: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  Invalid username/password,login denied.
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-12-03 15:32:12,331 - __main__ - ERROR - 数据库连接检查失败: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  Invalid username/password,login denied.
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-12-03 15:32:23,809 - __main__ - INFO - 数据库引擎初始化成功
+2024-12-03 15:32:23,847 - __main__ - ERROR - 会话执行错误: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  Invalid username/password,login denied.
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-12-03 15:32:23,848 - __main__ - ERROR - 数据库连接检查失败: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  Invalid username/password,login denied.
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-12-03 15:33:34,812 - __main__ - INFO - 数据库引擎初始化成功
+2024-12-03 15:33:34,848 - __main__ - ERROR - 会话执行错误: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  Invalid username/password,login denied.
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-12-03 15:33:34,848 - __main__ - ERROR - 数据库连接检查失败: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  Invalid username/password,login denied.
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-12-03 15:35:02,312 - __main__ - INFO - 数据库引擎初始化成功
+2024-12-03 15:35:02,361 - __main__ - ERROR - 会话执行错误: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  Invalid username/password,login denied.
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-12-03 15:35:02,362 - __main__ - ERROR - 数据库连接检查失败: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  Invalid username/password,login denied.
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-12-03 15:35:19,952 - __main__ - INFO - 数据库引擎初始化成功
+2024-12-06 15:03:27,236 - __main__ - INFO - ���ݿ������ʼ���ɹ�
+2024-12-06 15:03:29,269 - __main__ - ERROR - �Ựִ�д���: (psycopg2.OperationalError) connection to server at "127.0.0.1", port 5432 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-12-06 15:03:29,271 - __main__ - ERROR - ���ݿ����Ӽ��ʧ��: (psycopg2.OperationalError) connection to server at "127.0.0.1", port 5432 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-12-06 15:06:12,383 - __main__ - INFO - ���ݿ������ʼ���ɹ�
+2024-12-06 15:06:12,432 - __main__ - ERROR - �Ựִ�д���: (psycopg2.OperationalError) connection to server at "121.36.209.123", port 10721 failed: server does not support SSL, but SSL was required
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-12-06 15:06:12,433 - __main__ - ERROR - ���ݿ����Ӽ��ʧ��: (psycopg2.OperationalError) connection to server at "121.36.209.123", port 10721 failed: server does not support SSL, but SSL was required
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-12-06 15:06:52,041 - __main__ - INFO - ���ݿ������ʼ���ɹ�
+2024-12-06 15:06:52,343 - __main__ - ERROR - �Ựִ�д���: (psycopg2.OperationalError) connection to server at "121.36.209.123", port 10721 failed: FATAL:  Invalid username/password,login denied.
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-12-06 15:06:52,344 - __main__ - ERROR - ���ݿ����Ӽ��ʧ��: (psycopg2.OperationalError) connection to server at "121.36.209.123", port 10721 failed: FATAL:  Invalid username/password,login denied.
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-12-06 15:11:08,802 - __main__ - INFO - ���ݿ������ʼ���ɹ�
+2024-12-06 15:11:08,888 - __main__ - ERROR - �Ựִ�д���: (psycopg2.OperationalError) connection to server at "121.36.209.123", port 10721 failed: FATAL:  Invalid username/password,login denied.
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-12-06 15:11:08,888 - __main__ - ERROR - ���ݿ����Ӽ��ʧ��: (psycopg2.OperationalError) connection to server at "121.36.209.123", port 10721 failed: FATAL:  Invalid username/password,login denied.
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-12-06 15:20:58,507 - __main__ - INFO - ���ݿ������ʼ���ɹ�
+2024-12-06 15:20:58,596 - __main__ - ERROR - �Ựִ�д���: (psycopg2.OperationalError) connection to server at "121.36.209.123", port 10721 failed: FATAL:  Invalid username/password,login denied.
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-12-06 15:20:58,597 - __main__ - ERROR - ���ݿ����Ӽ��ʧ��: (psycopg2.OperationalError) connection to server at "121.36.209.123", port 10721 failed: FATAL:  Invalid username/password,login denied.
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-12-06 15:29:08,616 - __main__ - INFO - ���ݿ������ʼ���ɹ�
+2024-12-06 15:54:44,108 - src.backend.database.link - INFO - 数据库引擎初始化成功
+2024-12-06 15:56:01,269 - src.backend.database.link - INFO - 数据库引擎初始化成功
+2024-12-06 15:56:04,341 - numexpr.utils - INFO - Note: NumExpr detected 20 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2024-12-06 15:56:04,341 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2024-12-06 15:57:23,262 - src.backend.database.link - INFO - 数据库引擎初始化成功
+2024-12-06 15:57:23,448 - numexpr.utils - INFO - Note: NumExpr detected 20 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2024-12-06 15:57:23,448 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2024-12-06 16:42:00,436 - database.link - INFO - 数据库引擎初始化成功
+2024-12-06 16:42:00,730 - __main__ - INFO - 成功查询 10 条记录
+2024-12-06 16:46:20,703 - database.link - INFO - 数据库引擎初始化成功
+2024-12-06 16:46:21,021 - __main__ - INFO - 成功查询 5 条记录
+2024-12-06 16:51:59,802 - __main__ - INFO - 数据库引擎初始化成功
